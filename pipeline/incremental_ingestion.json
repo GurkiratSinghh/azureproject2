@@ -144,7 +144,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"expression": {
-						"value": "\n@greater(activity('sqltodatalake').output.dataread, 0)",
+						"value": "@greater(activity('sqltodatalake').output.dataread,0)\n",
 						"type": "Expression"
 					},
 					"ifFalseActivities": [
