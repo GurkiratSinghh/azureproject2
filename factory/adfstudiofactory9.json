@@ -1,0 +1,9 @@
+{
+	"name": "adfstudiofactory9",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "977d9b42-5369-4144-bfc0-e295c6ce6950",
+		"tenantId": "f95753e5-8904-4592-ba83-deeb0da2d5ff"
+	}
+}
