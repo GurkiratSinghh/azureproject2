@@ -226,7 +226,7 @@
 												{
 													"type": "Query",
 													"text": {
-														"value": "@concat('SELECT MAX(', item().cdc, ') AS max_cdc FROM ', item().schema, '.', item().table)",
+														"value": "@concat('SELECT MAX(', item().cdc_col, ') AS max_cdc FROM ', item().schema, '.', item().table)",
 														"type": "Expression"
 													}
 												}
